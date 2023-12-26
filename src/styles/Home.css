@@ -1,0 +1,50 @@
+/* .banner-class{
+    background-image:url("../assets/hero4.png");
+    height:50rem;
+    width:100%;
+    background-size:cover;
+    background-position:top 25% right 0;
+    padding:0 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:flex-start;
+}
+.banner-class h4{
+    padding-bottom:1rem;
+    font-size:2rem;
+}
+.banner-class h2{
+    padding-bottom:1rem;
+    color:#088178;
+    font-size:2.3rem;
+}
+.banner-class h1{
+    padding-bottom:1rem;
+    font-size:1.9rem;
+}
+.banner-class p{
+    padding-bottom:1rem;
+    font-size:1.5rem;
+} */
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width:100%;
+    height:15rem;
+    flex-wrap: wrap;
+}
+.socialMedia svg{
+    padding:2rem;
+    color:white;
+    font-size:xx-large;
+}
+.footer p{
+    font-size: x-large;
+    text-transform: capitalize;
+    color:white;
+    cursor: pointer;
+}

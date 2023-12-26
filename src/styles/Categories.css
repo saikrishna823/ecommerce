@@ -1,0 +1,20 @@
+.category-products{
+    display: flex;
+    flex-direction: row;
+    padding:1rem;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.category-name h2{
+  text-align: center;
+  padding:1rem;
+  text-transform: capitalize;
+  font-size: xx-large;
+  font-weight: 600;
+
+}
+@media screen and (max-width:600px) {
+  .category{
+    font-size:65%;
+  }
+}
